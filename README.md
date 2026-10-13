@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ══════════════ HEADER ══════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Galuh%20Fahriyanto&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20Teknik%20Informatika&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NIOSOKE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20Teknik%20Informatika&descAlignY=58&descSize=16" width="100%"/>
 
 <!-- ══════════════ TYPING ══════════════ -->
 <a href="https://github.com/Niosoke">
@@ -16,7 +16,7 @@
 <h2>🚀 Tentang Saya</h2>
 
 ```yaml
-nama      : Galuh Fahriyanto
+nama      : NIOSOKE
 username  : Niosoke
 kampus    : Universitas Pamulang
 jurusan   : Teknik Informatika
