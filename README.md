@@ -1,35 +1,34 @@
 # NIOSOKE
 
-Nulis kode sambil dengar musik. Waktu paling banyak habis buat ngulik hal
-yang belum tentu ada gunanya — dan justru itu bagian yang seru.
+I write code with music on. Most of my time goes into tinkering with things
+that may never be useful — and that's exactly the fun part.
 
 ---
 
-## Yang saya suka
+## What I'm into
 
-**Anime.** Nonton, dan kadang kepikiran bikin sesuatu dari situ. Avatar ini
-sudah cukup menjelaskan sisanya.
+**Anime.** I watch it, and sometimes it makes me want to build something.
+The avatar already says the rest.
 
-**Musik.** Lebih suka ngoprek alat bikin musik daripada cuma mendengarkan —
-nyoba synth, sequencer, dan program yang bisa mengeluarkan bunyi dari beberapa
-baris kode.
+**Music.** I'd rather mess with the tools than just listen — trying out synths,
+sequencers, and programs that can make sound out of a few lines of code.
 
-**Desain & video.** Suka bikin tampilan yang rapi: logo, tipografi, sampai
-animasi pendek yang setiap gerakannya diatur sendiri, bukan hasil template.
-
----
-
-## Cara saya kerja
-
-Kalau ada yang kelihatan menarik, saya bongkar sampai ngerti cara kerjanya,
-lalu bikin versi saya sendiri. Sering jelek dulu, baru diperbaiki.
+**Design & video.** I like making things look clean: logos, typography, and
+short animations where every movement is set by hand instead of a template.
 
 ---
 
-## Lain-lain
+## How I work
 
-Nama ini dipakai buat hal-hal yang belum selesai — eksperimen, proyek iseng,
-dan beberapa yang akhirnya benar-benar jadi.
+When something looks interesting, I take it apart until I understand how it
+works, then build my own version. It usually looks bad first, then gets fixed.
+
+---
+
+## Other
+
+This name is used for things that aren't finished yet — experiments, side
+projects, and a few that actually made it.
 
 ---
 
