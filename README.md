@@ -1,35 +1,35 @@
 # NIOSOKE
 
-Mahasiswa Teknik Informatika, Universitas Pamulang.
-Menulis C++ dan Python. Tertarik pada struktur data, algoritma, dan jaringan komputer.
+Nulis kode sambil dengar musik. Waktu paling banyak habis buat ngulik hal
+yang belum tentu ada gunanya — dan justru itu bagian yang seru.
 
 ---
 
-## Yang sedang saya kerjakan
+## Yang saya suka
 
-**Struktur Data** — mengimplementasikan stack, queue, dan linked list dalam C++.
-Latihan terakhir: linked stack dengan operasi `push`, `pop`, `peek`, dan `display`,
-lengkap dengan penanganan stack underflow.
+**Anime.** Nonton, dan kadang kepikiran bikin sesuatu dari situ. Avatar ini
+sudah cukup menjelaskan sisanya.
 
-**Jaringan Komputer** — konfigurasi routing statis di Cisco Packet Tracer,
-perhitungan subnet, dan membaca hasil `ping` serta `traceroute` untuk memastikan
-jalur paket benar-benar lewat router yang dimaksud.
+**Musik.** Lebih suka ngoprek alat bikin musik daripada cuma mendengarkan —
+nyoba synth, sequencer, dan program yang bisa mengeluarkan bunyi dari beberapa
+baris kode.
 
----
-
-## Cara saya belajar
-
-Saya menulis ulang kode sampai paham alurnya, bukan menyalin solusi jadi.
-Program dikompilasi dengan `g++ -Wall -Wextra` dan saya uji sendiri sebelum
-dikumpulkan — kalau masih ada peringatan, berarti masih ada bagian yang belum
-saya mengerti.
+**Desain & video.** Suka bikin tampilan yang rapi: logo, tipografi, sampai
+animasi pendek yang setiap gerakannya diatur sendiri, bukan hasil template.
 
 ---
 
-## Catatan
+## Cara saya kerja
 
-Repositori ini hanya perkenalan singkat. Tugas dan latihan kuliah saya rapikan
-lebih dulu sebelum dipublikasikan, jadi belum semuanya ada di sini.
+Kalau ada yang kelihatan menarik, saya bongkar sampai ngerti cara kerjanya,
+lalu bikin versi saya sendiri. Sering jelek dulu, baru diperbaiki.
+
+---
+
+## Lain-lain
+
+Nama ini dipakai buat hal-hal yang belum selesai — eksperimen, proyek iseng,
+dan beberapa yang akhirnya benar-benar jadi.
 
 ---
 
